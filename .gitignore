@@ -1,0 +1,15 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos temporales o de caché
+*.tmp
+*.cache
+
+# Ignorar directorios generados por herramientas
+node_modules/
+build/
+dist/
+
+# Ignorar archivos de configuración locales/secretos
+.env
+.vscode/
